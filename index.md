@@ -1,5 +1,3 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Warning_icon.svg/420px-Warning_icon.svg.png" width="30"/> *Site on Construction!*
-
 # Geometría Diferencial 2022
 
 Este es un curso introductorio de geometría diferencial. El tema central del curso es el estudio de la geometría de curvas y superfícies, así como una breve inicio al estudio de la geometría Riemmanniana. Al final del curso, los estudiantes comprederán completamente, la teoría de las curvas y superfícies, y el desarrollo de la geometría diferencial hasta la mitad el siglo XIX. Si el tiempo lo permite, al final del curso se hará una aplicación de cómo la geometría diferencial se utiliza en la teoría de relatividad general. Para aprovechar de mejor manera el curso, es recomendable que los estudiantes estén familiarizados con resultados de análisis real (en una y varias variables), topología de espacios métricos, ecuaciones diferenciales, variable compleja y que tengan un dominio hábil de herramientas de álgebra lineal y cálculo.
