@@ -21,9 +21,9 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
 # Material del curso
 <div id='id-material'/>
 
-  **No.**  | **Fecha**    | **Tópicos**                                                                    | **Actividades**
+  **No.**  | **Fecha**    | **Tópicos**                                                                    | **Recursos**
   -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
-  01       | 11.01.2022   | Introducción. Historia de la Geometría Diferencial. <br/>                      | 
+  01       | 11.01.2022   | Introducción. Historia de la Geometría Diferencial. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | 
   02       | 13.01.2022   | Curvas parametrizadas. Longitud de arco. <br/>                                 | 
     
 
