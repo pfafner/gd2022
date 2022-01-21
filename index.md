@@ -26,8 +26,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   01       | 11.01.2022   | Introducción. Historia de la Geometría Diferencial. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | [(D. J. Struik) Outline of History of Differential Geometry I](lecturas/struik1933_I.pdf){:target="_blank"} <br/> [(D. J. Struik) Outline of History of Differential Geometry II](lecturas/struik1933_II.pdf){:target="_blank"}
   02       | 13.01.2022   | Curvas parametrizadas. Longitud de arco. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Do Carmo, sección 1.2. <br/> Kühnel, sección 2A, pp. 7--11.
   03       | 18.01.2022   | Parametrización por longitud de arco. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Do Carmo, sección 1.3. <br/> Kühnel, sección 2A, pp. 7--11.
-  04       | 20.01.2022   |                                                                                 |
-    
+  04       | 20.01.2022   | Teoría local de curvas planas. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | 
 
 # Referencias
 <div id='id-ref'/>
