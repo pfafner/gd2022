@@ -28,8 +28,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   03       | 18.01.2022   | Parametrización por longitud de arco. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Do Carmo, sección 1.3. <br/> Kühnel, sección 2A, pp. 7--11.
   04       | 20.01.2022   | Teoría local de curvas planas. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Do Carmo, sección 1.5. <br/> Kühnel, sección 2B.
 Curva toroidal (Geogebra){:target="_blank"}
-  05       | 25.01.2022   | Teoría local de curvas en R3 y Rn. Forma canónica local. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Do Carmo, secciones 1.5 y 1.6.
-Kühnel, secciones 2B y 2C, pp. 12--27.
+  05       | 25.01.2022   | Teoría local de curvas en R3 y Rn. Forma canónica local. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Do Carmo, sección 1.6. <br/> Kühnel, secciones 2C y 2D.
 Curva toroidal (Geogebra){:target="_blank"}
   06       | 27.01.2022   | Transformaciones rígidas. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | 
 
