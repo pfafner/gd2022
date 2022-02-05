@@ -31,6 +31,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   06       | 27.01.2022   | Transformaciones rígidas. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"}  | *Para leer sobre el Teorema Fundamental de las EDO: Cap 8.* <br/> [(W. Kelley, A. Peterson) The Theory of EDO](http://library.lol/main/6CC3B361D2F1430322DE2E6379262779){:target="_blank"} 
   L1       | 29.01.2022   |                                                                                | **[Lista de ejercicios 1](listas/lista01.pdf){:target="_blank"}** <br/> **Fecha de entrega: Domingo 13 de febrero.**
   07       | 01.02.2022   | El Teorema fundamental de curvas. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Do Carmo, sección 1.6. <br/> Kühnel, sección 2D, pp. 28–32.
+  08       |              |                                                                                | 
 
 
 # Referencias
