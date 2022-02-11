@@ -32,7 +32,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   L1       | 29.01.2022   |                                                                                | **[Lista de ejercicios 1](listas/lista01.pdf){:target="_blank"}** <br/> **Fecha de entrega: Domingo 13 de febrero.**
   07       | 01.02.2022   | El Teorema fundamental de curvas. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Do Carmo, sección 1.6. <br/> Kühnel, sección 2D, pp. 28–32.
   08       | 08.02.2022   | Propiedades globales de curvas planas. <br/> La desigualdad isoperimétrica. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Do Carmo, sección 1.7.
-  09       | 10.02.2022   | Índice de rotación. Curvas convexas. El Teorema de los 4 vértices. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Do Carmo, sección 1.7.
+  09       | 10.02.2022   | Índice de rotación. Curvas convexas. <br/> El Teorema de los 4 vértices. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Do Carmo, sección 1.7.
 
 # Referencias
 <div id='id-ref'/>
