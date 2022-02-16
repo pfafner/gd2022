@@ -33,6 +33,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   07       | 01.02.2022   | El Teorema fundamental de curvas. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Do Carmo, sección 1.6. <br/> Kühnel, sección 2D, pp. 28–32.
   08       | 08.02.2022   | Propiedades globales de curvas planas. <br/> La desigualdad isoperimétrica. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Do Carmo, sección 1.7, Kühnel, sección 2F.
   09       | 10.02.2022   | Índice de rotación. Curvas convexas. <br/> El Teorema de los 4 vértices. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | [(Jackson, 1945)](https://www.jstor.org/stable/2371979?seq=1){:target="_blank"}  [(Ghomi, 2010)](https://www.ams.org/journals/proc/2011-139-01/S0002-9939-2010-10507-5/S0002-9939-2010-10507-5.pdf){:target="_blank"}  [(DeTurck, 2007)](http://www.ams.org/notices/200702/fea-gluck.pdf){:target="_blank"} <br/> **Comentario:** Hay varias generalizaciones del teorema de los 4 vértices. Por ejemplo, el artículo de DeTurck et al. da otra prueba del teorema y de su recíproco, y lista varias generalizaciones, pero no a superficies.
+  10       | 15.02.2022   | La fórmula de Cauchy-Crofton. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Do Carmo, sección 1.7.
   
   
 # Referencias
