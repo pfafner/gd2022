@@ -36,6 +36,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   10       | 15.02.2022   | La fórmula de Cauchy-Crofton. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Do Carmo, sección 1.7.
   11       | 17.02.2022   | Curvas en el espacio de Minkowski. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Kühnel, sección 2E, pp. 33–37.
   12       | 22.02.2022   | Superficies regulares. <br/>                               | Do Carmo, secciòn 2.1.
+  13       | 24.02.2022   | Ejemplos de superficies regulares. Forma local. <br/>      | Do Carmo, secciòn 2.1.
   
   
 # Referencias
