@@ -38,7 +38,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   L2       | 27.02.2022   |                                                                                | **[Lista de ejercicios 2](listas/lista02.pdf){:target="_blank"}** <br/> **Fecha de entrega: Sábado 12 de marzo.**
   12       | 22.02.2022   | Superficies regulares. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"}     | Do Carmo, sección 2.2.
   13       | 24.02.2022   | Ejemplos de superficies regulares. Forma local. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Do Carmo, sección 2.2.
-  .        |              |                                                               | 
+  14       | 01.03.2022   | Superficies de revolución. Pre-imagen de un valor regular. <br/> | 
   
   
 # Referencias
