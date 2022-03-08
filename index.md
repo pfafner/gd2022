@@ -39,7 +39,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   12       | 22.02.2022   | Superficies regulares. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"}     | Do Carmo, sección 2.2.
   13       | 24.02.2022   | Ejemplos de superficies regulares. Forma local. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Do Carmo, sección 2.2.
   14       | 01.03.2022   | Superficies de revolución. Pre-imagen de un valor regular. <br/> | 
-  15       | 03.03.2022   | Funciones diferenciables sobre superficies. <br/> | 
+  15       | 03.03.2022   | Funciones diferenciables sobre superficies. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Do Carmo, sección 2.3. 
   
   
 # Referencias
