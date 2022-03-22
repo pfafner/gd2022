@@ -41,9 +41,10 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   14       | 01.03.2022   | Superficies de revolución. Pre-imagen de un valor regular. <br/> [Aula 13 notas](aulas/Aula13_notas.pdf){:target="_blank"} | 
   15       | 03.03.2022   | Funciones diferenciables sobre superficies. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} [Aula 14 notas](aulas/Aula14_notas.pdf){:target="_blank"} | Do Carmo, sección 2.3. 
   16       | 08.03.2022   | El Plano Tangente. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} [Aula 15 notas](aulas/Aula15_notas.pdf){:target="_blank"} | Do Carmo, sección 2.4. <br/> En el libro de Do Carmo de variedades, se habla un poco sobre el fibrado tangente.
-  17       | 11.03.2022   | Orientabilidad de superficies I. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | Kühnel, sección 3A, pp. 63–65. <br/> Do Carmo, sección 2.6.
-  18       | 11.03.2022   | Orientabilidad de superficies II. La banda de Möbius es no orientable. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | Kühnel, sección 3A, pp. 63–65. <br/> Do Carmo, sección 2.6. <br/> En Do Carmo se usa otro modelo para representar la banda de Möbius.
-  L3       | 19.03.2022   |                                                                                | **[Lista de ejercicios 3](listas/lista03.pdf){:target="_blank"}** <br/> **Fecha de entrega: Domingo 03 de abril.**
+  17       | 10.03.2022   | Orientabilidad de superficies I. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | Kühnel, sección 3A, pp. 63–65. <br/> Do Carmo, sección 2.6.
+  18       | 15.03.2022   | Orientabilidad de superficies II. La banda de Möbius es no orientable. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | Kühnel, sección 3A, pp. 63–65. <br/> Do Carmo, sección 2.6. <br/> En Do Carmo se usa otro modelo para representar la banda de Möbius.
+  L3       | 17.03.2022   |                                                                                | **[Lista de ejercicios 3](listas/lista03.pdf){:target="_blank"}** <br/> **Fecha de entrega: Domingo 03 de abril.**
+  18       | 17.03.2022   | La primera forma fundamental. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Kühnel, sección 3A. Do Carmo, sección 2.5.
   
   
 # Referencias
