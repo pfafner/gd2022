@@ -45,6 +45,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   18       | 15.03.2022   | Orientabilidad de superficies II. La banda de Möbius es no orientable. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | Kühnel, sección 3A, pp. 63–65. <br/> Do Carmo, sección 2.6. <br/> En Do Carmo se usa otro modelo para representar la banda de Möbius.
   L3       | 17.03.2022   |                                                                                | **[Lista de ejercicios 3](listas/lista03.pdf){:target="_blank"}** <br/> **Fecha de entrega: Domingo 03 de abril.**
   18       | 17.03.2022   | La primera forma fundamental. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Kühnel, sección 3A. Do Carmo, sección 2.5.
+  19       | 22.03.2022   | Áreas sobre superficies. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Kühnel, sección 3A. Do Carmo, sección 2.5.
   
   
 # Referencias
