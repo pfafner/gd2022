@@ -47,7 +47,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   18       | 17.03.2022   | La primera forma fundamental. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Kühnel, sección 3A. Do Carmo, sección 2.5.
   19       | 22.03.2022   | Áreas sobre superficies. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Kühnel, sección 3A. Do Carmo, sección 2.5.
   20       | 24.03.2022   | La aplicación de Gauss. Segunda forma fundamental. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Kühnel, sección 3B. Do Carmo, sección 3.1.
-  21       | 29.03.2022   | Curvaturas en superficies. La indicatriz de Dupin. <br/>  | Kühnel, sección 3B. Do Carmo, sección 3.2 y 3.3.
+  21       | 29.03.2022   | Curvaturas en superficies. La indicatriz de Dupin. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Kühnel, sección 3B. Do Carmo, sección 3.2 y 3.3.
   
   
   
