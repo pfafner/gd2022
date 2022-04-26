@@ -51,9 +51,10 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   22       | 31.03.2022   | La indicatriz de Dupin. Ejemplos de superficies con curvaturas constantes. | Kühnel, sección 3B. Do Carmo, sección 3.2 y 3.3.
   23       | 05.04.2022   | La segunda forma fundamental en coordenadas locales. Ecuación de Weingarten. [Aula 22](aulas/Aula22.pdf){:target="_blank"} | Kühnel, sección 3B. Do Carmo, sección 3.3.
   24       | 07.04.2022   | Superficies regladas. Superficies de revolución. [Aula 23](aulas/Aula23.pdf){:target="_blank"} |
-  25       | 19.04.2022   | El problema de Plateau. Superficies Mínimas. [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Kühnel, sección 3D. Do Carmo, sección 3.5.B
-  26       | 21.04.2022   | Superficies Mínimas. Representación de Weierstrass.  |
+  25       | 19.04.2022   | El problema de Plateau. Superficies Mínimas. [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Kühnel, sección 3D. Do Carmo, sección 3.5.B.
+  26       | 21.04.2022   | Superficies Mínimas. Representación de Weierstrass. [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Kühnel, sección 3D.
   .        |              |                                                         |
+  
   
 # Referencias
 <div id='id-ref'/>
