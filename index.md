@@ -53,7 +53,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   24       | 07.04.2022   | Superficies regladas. Superficies de revolución. [Aula 23](aulas/Aula23.pdf){:target="_blank"} |
   25       | 19.04.2022   | El problema de Plateau. Superficies Mínimas. [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Kühnel, sección 3D. Do Carmo, sección 3.5.B.
   26       | 21.04.2022   | Superficies Mínimas. Representación de Weierstrass. [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Kühnel, sección 3D.
-  27       | 25.04.2022   | Superficies en el espacio de Minkowski. [Aula 26](aulas/Aula26.pdf){:target="_blank"} | Kühnel, sección 3D.
+  27       | 25.04.2022   | Superficies en el espacio de Minkowski. [Aula 26](aulas/Aula26.pdf){:target="_blank"} | Kühnel, sección 3E.
   28       | 26.04.2022   | Superficies Mínimas. Representación de Weierstrass. [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Kühnel, sección 3D.
   .        |              |                                                         |
   
