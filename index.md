@@ -58,7 +58,8 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   28       | 28.04.2022   | Teorema de Bonnet. Cálculo de símbolos de Christoffel. [Aula 28](aulas/Aula28.pdf){:target="_blank"} [Aula 28 notas](aulas/Aula28_notas.pdf){:target="_blank"} | Do Carmo, sección 4.3. Kühnel, sección 4D.
   29       | 03.05.2022   | Vecindad tubular. Variación de curvas. Geodésicas. [Aula 29](aulas/Aula29.pdf){:target="_blank"} [Aula 29 notas](aulas/Aula29_notas.pdf){:target="_blank"} | Do Carmo, sección 4.4. Montiel Ros, Capítulo 4 (vecindad tubular), Montiel Ros, sección 7.5.
   30       | 05.05.2022   | Ejemplos de geodésicas. Derivada covariante. <br/> [Aula 30](aulas/Aula30.pdf){:target="_blank"}  | Do Carmo, sección 4.4. Kühnel, sección 4A.
-  31       | 10.05.2022   | La ecuación de las geodésicas. <br/> [Aula 31 notas](aulas/Aula30_notas.pdf){:target="_blank"}  | Do Carmo, sección 4.4. Kühnel, sección 4A.
+  31       | 10.05.2022   | La ecuación de las geodésicas. <br/> [Aula 30 notas](aulas/Aula30_notas.pdf){:target="_blank"}  | Do Carmo, sección 4.4. Kühnel, sección 4A.
+  32       | 12.05.2022   | La ecuación de las geodésicas. <br/> [Aula 31](aulas/Aula31.pdf){:target="_blank"} [Aula 31 notas](aulas/Aula31_notas.pdf){:target="_blank"}  | Do Carmo, sección 4.4.
   
   
 # Referencias
