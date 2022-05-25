@@ -61,6 +61,8 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   31       | 10.05.2022   | La ecuación de las geodésicas. <br/> [Aula 30 notas](aulas/Aula30_notas.pdf){:target="_blank"}  | Do Carmo, sección 4.4. Kühnel, sección 4A.
   32       | 12.05.2022   | La ecuación de las geodésicas. <br/> [Aula 31](aulas/Aula31.pdf){:target="_blank"} [Aula 31 notas](aulas/Aula31_notas.pdf){:target="_blank"}  | Do Carmo, sección 4.4.
   33       | 17.05.2022   | El Teorema de Gauss-Bonnet. <br/> [Aula 32](aulas/Aula32.pdf){:target="_blank"}  | Do Carmo, sección 4.5. Kühnel, sección 4F.
+  L4       | 25.05.2022   |                                                                                | **[Lista de ejercicios 4](listas/lista04.pdf){:target="_blank"}** <br/> **Fecha de entrega: Sábado 04 de junio.**
+  
   
 # Referencias
 <div id='id-ref'/>
